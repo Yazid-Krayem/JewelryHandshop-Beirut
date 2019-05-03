@@ -7,18 +7,6 @@ import Footer from './Footer';
 import Header from './Header';
 
 
-//images for LOGO and the Header
-import logo from '../images/icons/nada-zeineh.svg';
-import iconHeader from '../images/icons/icon-header-01.png';
-import iconHeader1 from '../images/icons/icon-header-02.png';
-////////////////////////////////////////
-///images for the footer section 
-import paypal from '../images/icons/paypal.png';
-import visa from '../images/icons/visa.png';
-import mastercard from '../images/icons/mastercard.png';
-import express from '../images/icons/express.png';
-import discover from '../images/icons/discover.png';
-//////////////////////////////////////////////////////
 
 
 class Contact extends Component {
